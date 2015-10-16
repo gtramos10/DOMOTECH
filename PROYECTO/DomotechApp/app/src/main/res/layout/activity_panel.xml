@@ -80,7 +80,10 @@
                 android:layout_height="wrap_content"
                 android:text="New ToggleButton"
                 android:id="@+id/toggleButton"
-                android:layout_column="9" />
+                android:layout_column="9"
+                android:checked="false"
+                android:textOff="OFF"
+                android:textOn="ON" />
 
         </TableRow>
 
@@ -116,7 +119,10 @@
                 android:layout_height="wrap_content"
                 android:text="New ToggleButton"
                 android:id="@+id/toggleButton2"
-                android:layout_column="9" />
+                android:layout_column="9"
+                android:checked="false"
+                android:textOn="ON"
+                android:textOff="OFF" />
         </TableRow>
 
         <TableRow
@@ -147,7 +153,10 @@
                 android:layout_height="wrap_content"
                 android:text="New ToggleButton"
                 android:id="@+id/toggleButton3"
-                android:layout_column="9" />
+                android:layout_column="9"
+                android:checked="false"
+                android:textOff="OFF"
+                android:textOn="ON" />
         </TableRow>
 
         <TableRow
@@ -178,7 +187,10 @@
                 android:layout_height="wrap_content"
                 android:text="New ToggleButton"
                 android:id="@+id/toggleButton4"
-                android:layout_column="9" />
+                android:layout_column="9"
+                android:checked="false"
+                android:textOff="OFF"
+                android:textOn="ON" />
         </TableRow>
 
         <TableRow
@@ -421,7 +433,9 @@
                 android:layout_height="wrap_content"
                 android:text="New ToggleButton"
                 android:id="@+id/toggleButton5"
-                android:layout_column="9" />
+                android:layout_column="9"
+                android:textOn="ON"
+                android:textOff="OFF" />
         </TableRow>
 
         <TableRow
