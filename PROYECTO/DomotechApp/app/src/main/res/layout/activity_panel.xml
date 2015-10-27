@@ -514,7 +514,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="ACTUALIZAR"
-        android:id="@+id/button3"
+        android:id="@+id/btn_actualizar"
         android:layout_column="22"
         android:layout_alignTop="@+id/btnexit"
         android:layout_alignParentStart="true" />
